@@ -25,6 +25,7 @@
 [ieee-url]: https://ieeexplore.ieee.org/document/6291005
 [pluralsight-url]: https://github.com/pluralsight
 [intelivix-url]: https://github.com/intelivix
+[savantlabs-url]: https://github.com/savantlabs
 
 [hackerrank]: https://img.shields.io/badge/HackerRank-3776AB.svg?style=for-the-badge&logo=HackerRank
 [hackerrank-url]: https://www.hackerrank.com/arthuralvim
@@ -47,10 +48,12 @@ I am a passionate software developer from [Recife](https://goo.gl/maps/1zTcfvweq
 
 ## 💼 Work
 
-- 2023-xxxx **Currently looking for my next steps. Wanna hire me? Reach me so we can talk about it.**
+- 2023-2024 **Fullstack Developer** [**@savantlabs**][savantlabs-url]
 - 2020-2022 **Fullstack Developer** [**@pluralsight**][pluralsight-url]
 - 2015-2020 **CTO** [**@intelivix**][intelivix-url]
 - 2013-2014 **Web Developer** Claria Seguros
+
+Currently looking for my next steps. Wanna hire me? Reach me so we can talk about it.
 
 ### Technologies I ❤ to work with:
 
