@@ -26,6 +26,7 @@
 [pluralsight-url]: https://github.com/pluralsight
 [intelivix-url]: https://github.com/intelivix
 [savantlabs-url]: https://github.com/savantlabs
+[octogen-url]: https://github.com/octogen-ai
 
 [hackerrank]: https://img.shields.io/badge/HackerRank-3776AB.svg?style=for-the-badge&logo=HackerRank
 [hackerrank-url]: https://www.hackerrank.com/arthuralvim
@@ -48,6 +49,7 @@ I am a passionate software developer from [Recife](https://goo.gl/maps/1zTcfvweq
 
 ## 💼 Work
 
+- 2025-**now** **Fullstack Developer** [**@octogen-ai**][octogen-url]
 - 2023-2024 **Fullstack Developer** [**@savantlabs**][savantlabs-url]
 - 2020-2022 **Fullstack Developer** [**@pluralsight**][pluralsight-url]
 - 2015-2020 **CTO** [**@intelivix**][intelivix-url]
@@ -63,7 +65,7 @@ Currently looking for my next steps. Wanna hire me? Reach me so we can talk abou
 
 ## 🎓 Education
 
-- 2023-xxxx Ph.D in Computer Science (W.I.P)
+- 2025-xxxx Ph.D in Computer Science (W.I.P)
 - 2022-2023 MBA in Deep Learning [![cin][cin]][cin-url]
 - 2010-2012 MSc. in Computer Science [![cin][cin]][cin-url]
 - 2007-2010 B.Tech. in System Analysis [![ifpe][ifpe]][ifpe-url]
