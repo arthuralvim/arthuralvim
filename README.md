@@ -49,11 +49,11 @@ I am a passionate software developer from [Recife](https://goo.gl/maps/1zTcfvweq
 
 ## 💼 Work
 
-- 2025-**now** **Fullstack Developer** [**@octogen-ai**][octogen-url]
-- 2023-2024 **Fullstack Developer** [**@savantlabs**][savantlabs-url]
-- 2020-2022 **Fullstack Developer** [**@pluralsight**][pluralsight-url]
+- 2025-2025 **Senior Software Engineer - Fullstack** [**@octogen-ai**][octogen-url]
+- 2023-2024 **Senior Software Engineer - Fullstack** [**@savantlabs**][savantlabs-url]
+- 2020-2022 **Senior Software Engineer - Fullstack** [**@pluralsight**][pluralsight-url]
 - 2015-2020 **CTO** [**@intelivix**][intelivix-url]
-- 2013-2014 **Web Developer** Claria Seguros
+- 2013-2014 **Software Engineer** Claria Seguros
 
 Currently looking for my next steps. Wanna hire me? Reach me so we can talk about it.
 
